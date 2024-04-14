@@ -1,0 +1,7 @@
+1;The Adventures of Poliver;George R.R. Martin;4
+2;Jon Snow;Jon Snow;10
+3;The Big Dog;TBG;8
+4;The lonely tree;Pistachio;10
+5;Jersey;John;10
+6;Norway;John;10
+7;Morometii;Marin Preda;1

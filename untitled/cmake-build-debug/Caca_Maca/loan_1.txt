@@ -1,0 +1,4 @@
+Book ID: 1
+Title: The Adventures of Poliver
+Author: George R.R. Martin
+Copies Borrowed: 2

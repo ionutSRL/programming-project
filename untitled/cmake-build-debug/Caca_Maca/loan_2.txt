@@ -1,0 +1,4 @@
+Book ID: 5
+Title: Jersey
+Author: John
+Copies Borrowed: 2

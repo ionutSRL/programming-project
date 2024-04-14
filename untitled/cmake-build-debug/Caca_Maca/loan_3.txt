@@ -1,0 +1,4 @@
+Book ID: 3
+Title: The Big Dog
+Author: TBG
+Copies Borrowed: 2
